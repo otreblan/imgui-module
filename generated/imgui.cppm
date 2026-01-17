@@ -571,7 +571,6 @@ export {
     using ::ImGuiPopupFlags_MouseButtonRight;
     using ::ImGuiPopupFlags_MouseButtonMiddle;
     using ::ImGuiPopupFlags_MouseButtonMask_;
-    using ::ImGuiPopupFlags_MouseButtonDefault_;
     using ::ImGuiPopupFlags_NoReopen;
     using ::ImGuiPopupFlags_NoOpenOverExistingPopup;
     using ::ImGuiPopupFlags_NoOpenOverItems;
