@@ -1,6 +1,7 @@
 module;
 
 #include <imgui.h>
+#include <misc/cpp/imgui_stdlib.h>
 
 export module imgui;
 
